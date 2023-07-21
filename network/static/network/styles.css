@@ -1,0 +1,22 @@
+body{
+    background-color: #f2f2f2;
+    margin-bottom: 2%;
+}
+
+#allposts{
+    cursor: pointer;
+}
+.profile{
+    cursor: pointer;
+    color: blue;
+}
+#following{
+    cursor: pointer;
+}
+#user-header{
+    text-align: center;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
